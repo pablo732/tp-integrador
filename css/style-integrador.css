@@ -1,0 +1,19 @@
+.overlay-dark {
+    background-color: rgba(black);
+    opacity: .5;
+}
+
+.w-50 {
+    width: 50%;
+}
+
+.light-green {
+    color: aliceblue !important;
+    background-color: #61ad3b !important;
+    border-color: #61ad3b !important;
+}
+
+html, body {
+    max-width: 100%;
+    overflow-x: hidden;
+}
